@@ -1,0 +1,13 @@
+#+TITLE: Taffybar Preview
+#+DATE: <2021-09-28 Tue>
+
+* Taffybars
+|--------------------------------------+------------------------------------------------------------|
+| NAME                                 | BAR                                                        |
+|--------------------------------------+------------------------------------------------------------|
+| /*Example - Config*/ \\ [[./community-bars/Example - Config][Source]]       | [[./community-bars/Example - Config/assets/preview.png]]       |
+|--------------------------------------+------------------------------------------------------------|
+| /*Icy-Thought - Goura*/ \\ [[./community-bars/Icy-Thought - Goura][Source]]    | [[./community-bars/Icy-Thought - Goura/assets/preview.png]]    |
+|--------------------------------------+------------------------------------------------------------|
+| /*IvanMalison - Taffybar*/ \\ [[./community-bars/IvanMalison - Taffybar][Source]] | [[./community-bars/IvanMalison - Taffybar/assets/preview.png]] |
+|--------------------------------------+------------------------------------------------------------|

@@ -1,0 +1,39 @@
+#+TITLE: Taffybar Community
+#+DATE: <2021-09-28 Tue>
+
+Welcome to the Taffybar community repository where users gather to share their Taffybar styling achievements!
+
+[[https://github.com/taffybar/community-configs][community-configs]] was created with the purpose of providing Taffybar users with enough inspiration to spark new innovative & creative Taffybar designs accustomed to its user's liking while also showcasing the possible styling achievements through Taffybar.
+
+* Table of Contents :TOC:
+- [[#contributions][Contributions]]
+  - [[#step-by-step][Step-by-Step]]
+- [[#sincere-gratitude][Sincere Gratitude]]
+- [[#license][License]]
+
+* Contributions
+To submit your Taffybar style, you first ought to respect the license assigned to the code you have borrowed to power up your Taffybar. Later, you can proceed with the steps defined below.
+
+** Step-by-Step
+1. Create a sub-directory inside the =community-bars= folder named: =<username> - <configuration-name>=.
+
+2. Place the necessary files required to replicate your Taffybar setup inside the directory you have recently created.
+
+3. Add a Taffybar preview image to an =assets= sub-directory placed inside your newly created directory named =preview=.
+
+4. Create a =README.org= file in your sub-directory displaying the preview image you have uploaded to your =assets= directory for the ease of recognizing your Taffybar. You are also allowed to share instructions and explain your Taffybar setup if you wish to reduce the complications which could arise during the replication process for your setup.
+
+5. Submit a preview of your Taffybar in the =taffybar-previews.org= file by pasting & replacing the necessary bits from the link template sorted in an alphabetical order for ease of navigating to your preview image.
+
+   a. ~link-template~
+      #+begin_src org
+      | /*Example*/ \\ [[./community-bars/sub-directory][Source]] | [[./community-bars/example/assets/preview.png]] |
+      #+end_src
+
+6. Finally, create a pull request and follow the instructions provided in the PR template of this repository.
+
+* Sincere Gratitude
+[..] to everyone who has contributed to this community repository to help inspire Taffybar users, and other bar users alike, to come up with new design choices for their bars!
+
+* License
+- This repository is licensed under the *insert-license-here* license. For more information, please refer to the license file of this repository.
